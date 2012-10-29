@@ -1,17 +1,17 @@
-{ "name": "mongoose-3x-types"
+{ "name": "mongoose-form-factory-types"
 , "description":  "More types for mongoose"
-, "version":  "1.0.5"
-, "author": "Brian Noguchi"
+, "version":  "1.1.0"
+, "author": "Corey Pauley"
 , "contributors": [
-	{   "name": "Marco Pantaleoni"
-	  , "email": "marco.pantaleoni@gmail.com"
+	{   "name": "Corey Pauley"
+	  , "email": "corey.pauley@imaginuity.com"
 	} ]
 , "dependencies": { "mongoose": ">= 2.6.0"}
 , "devDependencies": {
       "expresso": "0.9.2"
     , "should": "1.1.0"
 }
-, "keywords": [ "mongoose", "mongo", "mongodb", "types" ]
+, "keywords": [ "mongoose", "mongo", "mongodb", "types", "forms", "form", "form factory" ]
 , "scripts": { "test": "make test" }
 , "engines": { "node": ">= 0.1.101" }
 , "main": "./index"
